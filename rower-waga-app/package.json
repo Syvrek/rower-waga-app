@@ -1,19 +1,5 @@
-{
-  "name": "rower-waga-app",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "@radix-ui/react-card": "latest",
-    "@radix-ui/react-label": "latest",
-    "class-variance-authority": "latest",
-    "clsx": "latest",
-    "tailwind-merge": "latest"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "CI=false react-scripts build"
-  }
+"dependencies": {
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "react-scripts": "5.0.1"
 }
